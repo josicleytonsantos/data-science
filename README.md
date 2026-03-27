@@ -1,4 +1,4 @@
-# data-science-journey
+# Data Science Journey
 
 This repository documents my practical journey in **Data Science**, combining structured study, hands-on implementations, and applied projects.
 
