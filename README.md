@@ -81,9 +81,11 @@ For each book, the following workflow is applied:
 
 The main references used in this repository include:
 
-Python for Data Analysis — Wes McKinney  
-Data Science from Scratch — Joel Grus  
-Data Science Projects with Python — Stephen Klosterman
+## References
+
+- Wes McKinney (2012). *Python for Data Analysis*. O'Reilly Media.
+- Joel Grus (2019). *Data Science from Scratch: First Principles with Python*. O'Reilly Media.
+- Stephen Klosterman (2021). *Data Science Projects with Python: A Case Study Approach to Gaining Valuable Insights from Real Data with Machine Learning*. Packt Publishing.
 
 Official repositories and datasets are referenced inside each directory.
 
